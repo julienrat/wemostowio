@@ -1,0 +1,8 @@
+Parts not found in 3dpack.dat or 3dusrpac.dat are:
+//J1	4P-2.0	HW4-2.0
+//J2	4P-2.0	HW4-2.0
+//K1	TS-1109	SW4-6.0X6.0X5.0MM
+//R1	100K	PR-D1.8*L3.3MM
+//R2	100K	PR-D1.8*L3.3MM
+//R3	100K	PR-D1.8*L3.3MM
+//U$1	WEMOS	WEMOS
