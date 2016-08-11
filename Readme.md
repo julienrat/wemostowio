@@ -41,17 +41,17 @@ https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 - Démarrer l'application Wio sur le téléphone.
 
 
-Screenshot| Description 
+Description | Screenshot
 ---------|---------
 Connectez vous ou créez un compte | ![login](/images/login.png) 
-![add_device](/images/add_device.png) | Ajoutez votre Wemos, et choisissez Wio Node
-![App](/images/next.png) | Assurez-vous que la led bleue effectue un "fading", sinon appuyez 4 sec sur le bouton Fonction
-![selection local network](/images/reseau_device.png) | Connectez vous au wemos, il devrait apparaitre dans la liste
-![name](/images/device_name.png) | Choisissez un nom pour votre Wemos
-![sensor](/images/sensor_choose.png) | Choisissez le capteur que vous souhaitez connecter au wemos
-![sensor2](/images/sensor_choose2.png) | A l'aide d'un drag'n'drop glissez le capteur sur un connecteur de votre choix
-![upload](/images/upload.png) | Cliquez sur "Update Firmware" pour envoyer la nouvelle configuration au wemos
-
+Ajoutez votre Wemos, et choisissez Wio Node | ![add_device](/images/add_device.png) 
+Assurez-vous que la led bleue effectue un "fading", sinon appuyez 4 sec sur le bouton Fonction | ![App](/images/next.png)
+Connectez vous au wemos, il devrait apparaitre dans la liste | ![selection local network](/images/reseau_device.png)
+Choisissez un nom pour votre Wemos | ![name](/images/device_name.png)
+Choisissez le capteur que vous souhaitez connecter au wemos | ![sensor](/images/sensor_choose.png)
+A l'aide d'un drag'n'drop glissez le capteur sur un connecteur de votre choix | ![sensor2](/images/sensor_choose2.png)
+Cliquez sur "Update Firmware" pour envoyer la nouvelle configuration au wemos | ![upload](/images/upload.png)
+ 
 ###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
