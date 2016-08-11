@@ -14,15 +14,15 @@ Pour plus d'informations, vous pouvez regarder la vidéo de présentation :
 
 
 ##Flasher le Wemos
-### Récupérez le firmware Wio Node
+### Récupérer le firmware Wio Node
 [user1.bin](https://github.com/Seeed-Studio/Wio_Link/raw/master/users_build/local_user_00000000000000000000/user1.bin)
 
 [user2.bin](https://github.com/Seeed-Studio/Wio_Link/raw/master/users_build/local_user_00000000000000000000/user2.bin)
 
 [bootloader](http://www.seeedstudio.com/wiki/images/4/4b/Esp8266sdk1.4.1.zip)
 
-Décompressez Bootloader et copiez user1.bin, user2.bin, boot_v1.4(b1).bin, blank.bin et esp_init_data_default.bin dans le même repertoire
-### Installez esptool 
+Décompresser Bootloader et copier user1.bin, user2.bin, boot_v1.4(b1).bin, blank.bin et esp_init_data_default.bin dans le même repertoire
+### Installer esptool 
 Suivant votre distribution, vous pouvez trouver esptool dans vos dépots, ou le télécharger à cette adresse https://github.com/themadinventor/esptool
 
 ### Flasher le Wemos
@@ -38,7 +38,7 @@ https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 
 
 
-###Schema de cablage
+###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
 ![selection](/images/WioNode_sch_fritzing.png) | ![selection](/images/WioNode_sch.png) 
