@@ -48,6 +48,6 @@ Top | Bottom
 ![selection](/3D/wio_shield_top.png) | ![selection](/3D/wio_shield.png) 
 
 ###Production
-Typon | Plaque d'esais
+Typon | [Plaque d'essais](/schema/wemos_wio_plaque_essais.fzz)
 ---------|---------
 ![selection](/images/PCB.png) | ![selection](/images/WioNode_plaque_essais.png) 
