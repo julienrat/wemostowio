@@ -38,9 +38,9 @@ https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 
 
 ###Schema de cablage
-Platine d'essais | Eagle
+[Fritzing](/home/julo/SparkleShare/wemostowio/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
-![selection](/images/WioNode_plaque_essais.png) | ![selection](/images/WioNode_sch.png) 
+![selection](/images/WioNode_sch_fritzing.png) | ![selection](/images/WioNode_sch.png) 
 
 ###Vue PCB
 Top | Bottom 
