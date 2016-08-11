@@ -86,3 +86,14 @@ Top | Bottom
 Typon | [Plaque d'essais](/schema/wemos_wio_plaque_essais.fzz)
 ---------|---------
 ![selection](/images/PCB.png) | ![selection](/images/WioNode_plaque_essais.png) 
+
+
+##Sources
+Ce projet est sou licence CCbySA
+
+Ressources seeedstudio : 
+- https://github.com/Seeed-Studio/Wio_Link/wiki/Advanced%20User%20Guide
+- https://github.com/Seeed-Studio/Wio_Link
+
+Ressources Wemos
+- http://www.wemos.cc/
