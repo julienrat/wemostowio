@@ -54,8 +54,15 @@ Cliquez sur "Update Firmware" pour envoyer la nouvelle configuration au wemos | 
 
 Voila, votre wemos est opérationel, il ne reste plus qu'à le connecter à un canal de diffusion, ici c'est le canal de diffusion IFTTT que nous alons choisir.
 
-###Utilisation
+###Utilisation simple
+Pour l'instant Un seul canal est disponible pour wio : IFTTT 
+Ce service, apres inscription permet de relier nos capteurs à une multitude de services tels que Twitter, Facebook et même les lamps connectées de chez philips .. etc.
 
+Le principe est simple IF This Then That.(Si Ceci Alors Cela) et se présente sou la forme de recettes :
+
+Par exemple :
+Ca tweet quand il fait chaud :
+![selection](/images/recette.png)
 
 ###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
