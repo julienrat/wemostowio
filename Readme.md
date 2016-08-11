@@ -28,7 +28,8 @@ Suivant votre distribution, vous pouvez trouver esptool dans vos dépots, ou le 
 ### Flasher le Wemos
 
 ```shell
-esptool.py -p /dev/ttyUSB0 -b 230400 write_flash --flash_size 32m-c1 0x0000 boot_v1.4(b1).bin 0x1000 user1.bin 0x101000 user2.bin 0x3fc000 esp_init_data_default.bin 0x3fe000 blank.bin
+esptool -p /dev/ttyUSB0 -b 230400 write_flash --flash_size 32m-c1 0x0000 boot_v1.4\(b1\).bin 0x1000 user1.bin 0x101000 user2.bin 0x3fc000 esp_init_data_default.bin 0x3fe000 blank.bin
+
 ```
 
 ## Installer l'application Android
