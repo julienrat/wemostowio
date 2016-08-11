@@ -14,6 +14,9 @@ Pour plus d'informations, vous pouvez regarder la vidéo de présentation :
 
 
 ##Flasher le Wemos
+### Récupérez le firmware Wio Node
+(https://github.com/Seeed-Studio/Wio_Link/raw/master/users_build/local_user_00000000000000000000/user1.bin)
+
 
 ## Installer l'application Android
 
