@@ -59,17 +59,22 @@ Pour l'instant Un seul canal est disponible pour wio : IFTTT
 
 Ce service, apres inscription permet de relier nos capteurs à une multitude de services tels que Twitter, Facebook et même les lamps connectées de chez philips .. etc.
 
-Le principe est simple IF This Then That.(Si Ceci Alors Cela) et se présente sou la forme de recettes :
+Le principe est simple IF This Then That.(Si Ceci Alors Cela) et se présente sou la forme de recettes : Le site [IFTTT](https://ifttt.com)
 
 Par exemple :
-Ca tweet quand il fait chaud :
+Un tweet quand il fait chaud :
 ![selection](/images/recette.png)
 
-Le site [IFTTT](https://ifttt.com)
+On peux aussi connecter IFTTT à la platteforme IO d'adafruit
+[Recette IFTTT](https://ifttt.com/recipes/452996-temperature-data-viz)| [DashBoard Adafruit](https://io.adafruit.com/ratjulien/welcome-dashboard)
+---------|---------
+![selection](/images/recette_ada.png) | ![selection](/images/recette_adafruit.png) 
+
 ###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
 ![selection](/images/WioNode_sch_fritzing.png) | ![selection](/images/WioNode_sch.png) 
+
 
 ###Vue PCB
 Top | Bottom 
