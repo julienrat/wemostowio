@@ -41,7 +41,7 @@ https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 - Démarrer l'application Wio sur le téléphone.
 
 
-Description | Screenshot
+Screenshot| Description 
 ---------|---------
 ![login](/images/login.png) | Connectez vous ou créez un compte
 ![add_device](/images/add_device.png) | Ajoutez votre Wemos, et choisissez Wio Node
