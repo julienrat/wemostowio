@@ -46,3 +46,8 @@ Platine d'essais | Eagle
 Top | Bottom 
 ---------|---------
 ![selection](/3D/wio_shield_top.png) | ![selection](/3D/wio_shield.png) 
+
+###Production
+Typon | Plaque d'esais
+---------|---------
+![selection](/images/PCB.png) | ![selection](/images/WioNode_plaque_essais.png) 
