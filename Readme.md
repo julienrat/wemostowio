@@ -39,7 +39,7 @@ esptool.py -p /dev/ttyUSB0 -b 230400 write_flash --flash_size 32m-c1 0x0000 boot
 ###Schema de cablage
 Fritzing | Eagle
 ---------|---------
-![selection](/images/wimostowio_plaque_essais.png) | ![selection](/images/schema.png) 
+![selection](/images/Wimostowio_plaque_essais.png) | ![selection](/images/schema.png) 
 
 ###Vue PCB
 Top | Bottom 
