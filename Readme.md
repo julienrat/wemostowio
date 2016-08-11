@@ -59,7 +59,7 @@ Pour l'instant Un seul canal est disponible pour wio : IFTTT
 
 Ce service, apres inscription permet de relier nos capteurs à une multitude de services tels que Twitter, Facebook et même les lamps connectées de chez philips .. etc.
 
-Le principe est simple IF This Then That.(Si Ceci Alors Cela) et se présente sou la forme de recettes : Le site [IFTTT](https://ifttt.com)
+Le principe est simple IF This Then That.(Si Ceci Alors Cela) et se présente sous la forme de recettes : Le site [IFTTT](https://ifttt.com)
 
 Par exemple :
 Un tweet quand il fait chaud :
