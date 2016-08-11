@@ -15,8 +15,9 @@ Pour plus d'informations, vous pouvez regarder la vidéo de présentation :
 
 ##Flasher le Wemos
 ### Récupérez le firmware Wio Node
-(https://github.com/Seeed-Studio/Wio_Link/raw/master/users_build/local_user_00000000000000000000/user1.bin)
-
+[user1.bin](https://github.com/Seeed-Studio/Wio_Link/raw/master/users_build/local_user_00000000000000000000/user1.bin)
+[user2.bin](https://github.com/Seeed-Studio/Wio_Link/raw/master/users_build/local_user_00000000000000000000/user2.bin)
+[bootloader](http://www.seeedstudio.com/wiki/images/4/4b/Esp8266sdk1.4.1.zip)
 
 ## Installer l'application Android
 
