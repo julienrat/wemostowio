@@ -2,7 +2,9 @@ Wemos to Wio node
 =
 
 ----
-##Fonctionnement
+##Principe
+Ce tutoriel permet de convertir une carte Wemos en une carte compatible Wio Node. Et ainsi construire facilement des objets connectés.
+
 
 
 ##Flasher le Wemos
