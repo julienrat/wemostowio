@@ -39,10 +39,18 @@ https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 ###Configuration
 - Appuyer sur le bouton fonction 4 secondes afin de mettre le wemos en mode "Configuration". La led arrete de clignoter et effectue un "fading".
 - Démarrer l'application Wio sur le téléphone.
+
+
 Description | Screenshot
 ---------|---------
 ![login](/images/login.png) | Connectez vous ou créez un compte
-
+![add_device](/images/add_device.png) | Ajoutez votre Wemos, et choisissez Wio Node
+![App](/images/next.png) | Assurez-vous que la led bleue effectue un "fading", sinon appuyez 4 sec sur le bouton Fonction
+![selection local network](/images/reseau_device.png) | Connectez vous au wemos, il devrait apparaitre dans la liste
+![name](/images/device_name.png) | Choisissez un nom pour votre Wemos
+![sensor](/images/sensor_choose.png) | Choisissez le capteur que vous souhaitez connecter au wemos
+![sensor2](/images/sensor_choose2.png) | A l'aide d'un drag'n'drop glissez le capteur sur un connecteur de votre choix
+![upload](/images/upload.png) | Cliquez sur "Update Firmware" pour envoyer la nouvelle configuration au wemos
 
 ###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
