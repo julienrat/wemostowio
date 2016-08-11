@@ -21,14 +21,14 @@ Pour plus d'informations, vous pouvez regarder la vidéo de présentation :
 
 [bootloader](http://www.seeedstudio.com/wiki/images/4/4b/Esp8266sdk1.4.1.zip)
 
-Décompressez Bootloarder et copiez user1.bin, user2.bin et bootloader dans le même repertoire
+Décompressez Bootloader et copiez user1.bin, user2.bin, boot_v1.4(b1).bin, blank.bin et esp_init_data_default.bin dans le même repertoire
 ### Installez esptool 
 Suivant votre distribution, vous pouvez trouver esptool dans vos dépots, ou le télécharger à cette adresse https://github.com/themadinventor/esptool
 
 ### Flashez 
 
 ```shell
-esptool.py -p /dev/tty.SLAB_USBtoUART -b 230400 write_flash --flash_size 32m-c1 0x0000 bootloader.bin 0x1000 user1.bin 0x101000 user2.bin 0x3fc000 esp_init_data_default.bin 0x3fe000 blank.bin
+esptool.py -p /dev/tty.SLAB_USBtoUART -b 230400 write_flash --flash_size 32m-c1 0x0000 boot_v1.4(b1).bin 0x1000 user1.bin 0x101000 user2.bin 0x3fc000 esp_init_data_default.bin 0x3fe000 blank.bin
 ```
 
 ## Installer l'application Android
