@@ -36,7 +36,7 @@ esptool -p /dev/ttyUSB0 -b 230400 write_flash --flash_size 32m-c1 0x0000 boot_v1
 https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 
 ## Utilisation // Configuration
-- Appuyer sur le bouton fonction afin de mettre le wemos en mode "Configuration". la led arrete de clignoter et effectue un "fading".
+- Appuyer sur le bouton fonction 4 secondes afin de mettre le wemos en mode "Configuration". la led arrete de clignoter et effectue un "fading".
 
 
 ###Schéma de câblage
