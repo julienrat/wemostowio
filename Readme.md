@@ -38,7 +38,7 @@ https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
 
 
 ###Schema de cablage
-[Fritzing](/home/julo/SparkleShare/wemostowio/schema/wemos_wio_sch.fzz)| Eagle
+[Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
 ![selection](/images/WioNode_sch_fritzing.png) | ![selection](/images/WioNode_sch.png) 
 
