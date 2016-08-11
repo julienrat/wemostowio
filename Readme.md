@@ -65,7 +65,7 @@ Par exemple :
 Ca tweet quand il fait chaud :
 ![selection](/images/recette.png)
 
-[IFTTT](https://ifttt.com)
+Le site [IFTTT](https://ifttt.com)
 ###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
