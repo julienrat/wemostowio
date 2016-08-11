@@ -89,7 +89,7 @@ Typon | [Plaque d'essais](/schema/wemos_wio_plaque_essais.fzz)
 
 
 ##Sources
-Ce projet est sou licence CCbySA
+Ce projet est sous licence CCbySA
 
 Ressources seeedstudio : 
 - https://github.com/Seeed-Studio/Wio_Link/wiki/Advanced%20User%20Guide
