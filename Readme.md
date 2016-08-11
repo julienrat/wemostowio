@@ -66,6 +66,7 @@ Un tweet quand il fait chaud :
 ![selection](/images/recette.png)
 
 On peux aussi connecter IFTTT à la platteforme IO d'adafruit
+
 [Recette IFTTT](https://ifttt.com/recipes/452996-temperature-data-viz)| [DashBoard Adafruit](https://io.adafruit.com/ratjulien/welcome-dashboard)
 ---------|---------
 ![selection](/images/recette_ada.png) | ![selection](/images/recette_adafruit.png) 
