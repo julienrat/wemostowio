@@ -36,7 +36,7 @@ Il vous faudra un utilitaire de flashage pour Windows disponibla à cette adress
 
 Puis configurez le logiciel comme ci-dessous
 
-[config](/images/config_esp.jpeg)
+![config](/images/config_esp.jpeg)
 
 ## Installer l'application Android
 https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
