@@ -34,6 +34,9 @@ esptool -p /dev/ttyUSB0 -b 230400 write_flash --flash_size 32m-c1 0x0000 boot_v1
 ### Flasher le Wemos Sous Windows
 Il vous faudra un utilitaire de flashage pour Windows disponibla à cette adresse : (http://bbs.espressif.com/download/file.php?id=856)
 
+Puis configurez le logiciel comme ci-dessous
+
+[config](/images/config_esp.jpeg)
 
 ## Installer l'application Android
 https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
