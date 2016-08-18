@@ -25,12 +25,15 @@ Décompresser Bootloader et copier user1.bin, user2.bin, boot_v1.4(b1).bin, blan
 ### Installer esptool 
 Suivant votre distribution, vous pouvez trouver esptool dans vos dépots, ou le télécharger à cette adresse https://github.com/themadinventor/esptool
 
-### Flasher le Wemos
+### Flasher le Wemos Sous Linux
 
 ```shell
 esptool -p /dev/ttyUSB0 -b 230400 write_flash --flash_size 32m-c1 0x0000 boot_v1.4\(b1\).bin 0x1000 user1.bin 0x101000 user2.bin 0x3fc000 esp_init_data_default.bin 0x3fe000 blank.bin
 
 ```
+### Flasher le Wemos Sous Windows
+Il vous faudra un utilitaire de flashage pour Windows disponibla à cette adresse : (http://bbs.espressif.com/download/file.php?id=856)
+
 
 ## Installer l'application Android
 https://play.google.com/store/apps/details?id=cc.seeed.iot.ap
