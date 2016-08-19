@@ -58,7 +58,7 @@ Choisissez le capteur que vous souhaitez connecter au wemos | ![sensor](/images/
 A l'aide d'un drag'n'drop glissez le capteur sur un connecteur de votre choix | ![sensor2](/images/sensor_choose2.png)
 Cliquez sur "Update Firmware" pour envoyer la nouvelle configuration au wemos | ![upload](/images/upload.png)
 
-Voila, votre wemos est opérationel, il ne reste plus qu'à le connecter à un canal de diffusion, ici c'est le canal de diffusion IFTTT que nous alons choisir.
+Voilà, votre wemos est opérationel, il ne reste plus qu'à le connecter à un canal de diffusion, ici c'est le canal de diffusion IFTTT que nous alons choisir.
 
 ###Utilisation simple
 Pour l'instant Un seul canal est disponible pour wio : IFTTT 
