@@ -80,7 +80,7 @@ On peux aussi connecter IFTTT à la platteforme IO d'adafruit
 ###Schéma de câblage
 [Fritzing](/schema/wemos_wio_sch.fzz)| Eagle
 ---------|---------
-![selection](/images/WioNode_sch_fritzing.png) | ![selection](/images/WioNode_sch.png) 
+![selection](/images/WioNode_sch_fritzing.png) | ![selection](/images/WioNode_sch_v2.png) 
 
 
 ###Vue PCB
